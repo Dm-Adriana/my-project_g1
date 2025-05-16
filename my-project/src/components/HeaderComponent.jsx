@@ -3,8 +3,8 @@ import "./HeaderComponent.css"
 function HeaderComponent() {
   return (
     <header className="header">
-      <h1 className="title"> 🦋 Welcome</h1>
-        <nav>
+      <h1 className="title"> 🌸 Welcome 🌸</h1>
+        <nav className="nav">
           <div className="link-container">
           <ul className="link-list">
             <li>
